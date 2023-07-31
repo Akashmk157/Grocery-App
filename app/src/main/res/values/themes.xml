@@ -18,4 +18,10 @@
         <item name="boxStrokeColor">#5BB318</item>
         <item name="boxStrokeWidth">1dp</item>
     </style>
+
+    <style name="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
 </resources>
